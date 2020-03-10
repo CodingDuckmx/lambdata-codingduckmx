@@ -1,0 +1,9 @@
+README.md
+setup.py
+lambdata_cdmx/__init__.py
+lambdata_cdmx/my_mod.py
+lambdata_cdmx/my_script.py
+my_function_lambdata_codingduckmx.egg-info/PKG-INFO
+my_function_lambdata_codingduckmx.egg-info/SOURCES.txt
+my_function_lambdata_codingduckmx.egg-info/dependency_links.txt
+my_function_lambdata_codingduckmx.egg-info/top_level.txt
