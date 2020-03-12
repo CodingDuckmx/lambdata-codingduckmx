@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="my_function-lambdata-codingduckmx",
-    version="0.0.0.1",
+    version="0.0.0.2",
     author="Jesus Caballero",
     author_email="jcm@ciencias.unam.mx",
     description="For example purposes",

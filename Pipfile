@@ -5,8 +5,11 @@ verify_ssl = true
 
 [dev-packages]
 twine = "*"
+pylint = "*"
 
 [packages]
+sklearn = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.7"
